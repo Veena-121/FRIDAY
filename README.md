@@ -1,106 +1,60 @@
-# F.R.I.D.A.Y — Voice Assistant (R&D)
+F.R.I.D.A.Y — Personal AI Voice Assistant 🤖🎙️
 
-F.R.I.D.A.Y is a voice-controlled AI assistant inspired by Tony Stark’s AI.
-This project is currently in **R&D (Research & Development)** phase.
+F.R.I.D.A.Y is a Python-based personal voice assistant inspired by Stark Industries' AI assistant. 
+⚠️ Status: Project Currently in R&D (Research & Development Phase)
+Features are actively being tested, improved, and expanded.
 
-## 🚧 Status
+🚀 Features (Current)
+🎙️ Voice Command Recognition
+🔊 Text-to-Speech Responses
+🌐 Google Search via Voice
+▶️ Play Songs (YouTube / Brave Browser)
+😴 Sleep & Wake Mode (Wake Word: "Friday")
+🧠 AI Conversational Responses
+🔎 YouTube Search Automation
 
-**In Active R&D**
-Features and architecture are being continuously improved.
+🛠️ Tech Stack
+Python
+SpeechRecognition
+Pyttsx3 (TTS Engine)
+Google Speech API
+Web Automation (subprocess / webbrowser)
 
----
+🎯 Example Commands
+"Friday play my song"
+"Friday search Python tutorials"
+"Friday open YouTube"
+"Friday go to sleep"
+"Friday wake up"
+"Friday add meeting at 5 pm" (Experimental)
 
-## ✨ Current Features
+📌 Project Goals (R&D Phase)
+Wake word detection without manual trigger
+Smart context memory
+Desktop automation
+System control (volume, apps, files)
+UI Interface (Streamlit / Web UI)
+AI Task Planning
 
-* Wake word activation (**"Friday"**)
-* Voice command recognition
-* AI conversational responses
-* Open applications (Spotify, WhatsApp, etc.)
-* Close applications
-* Browser search
-* Continuous listening mode
+🧪 Current Status
 
----
+This project is under active Research & Development.
+Expect:
 
-## 🧠 Example Commands
+Rapid updates
+Experimental features
+Frequent improvements
 
-* "Hello Friday"
-* "Search Iron Man"
-* "Open Spotify"
-* "Close WhatsApp"
-* "What is artificial intelligence"
+👩‍💻 Author
 
----
+Built by Vaishnavi
+AI • Automation • Voice Assistant • Experimental Projects
 
-## 📁 Project Structure
+🔮 Vision
 
-```
-FRIDAY/
-│
-├── main.py        # Core assistant logic
-├── listener.py    # Voice recognition
-├── speaker.py     # Text-to-speech
-├── brain.py       # AI response engine
-├── .env           # API keys
-```
+To build a fully autonomous personal AI assistant similar to F.R.I.D.A.Y capable of:
 
----
-
-## ⚙️ Requirements
-
-* Python 3.9+
-* Microphone
-* Internet connection
-
-### Dependencies
-
-```
-speechrecognition
-pyttsx3
-groq
-python-dotenv
-pyaudio
-```
-
-Install:
-
-```
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Run
-
-```
-python main.py
-```
-
-Say:
-
-```
-Hello Friday
-```
-
----
-
-## 🎯 Roadmap
-
-* Memory system
-* UI dashboard
-* System automation
-* Vision (camera support)
-* Smart context understanding
-
----
-
-## 🧪 Note
-
-This project is currently in **Research & Development**.
-Expect bugs, experimental features, and rapid changes.
-
----
-
-## 🧑‍💻 Author
-
-Built as a personal AI assistant project inspired by F.R.I.D.A.Y / JARVIS.
+Understanding context
+Automating workflows
+Acting proactively
+Assisting in daily productivity
