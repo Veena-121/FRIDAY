@@ -1,10 +1,11 @@
 # F.R.I.D.A.Y — Personal AI Voice Assistant 🤖🎙️
 
 F.R.I.D.A.Y is a Python-based personal voice assistant inspired by Stark Industries' AI assistant. 
-⚠️ Status: Project Currently in R&D (Research & Development Phase)
+###⚠️ Status: Project Currently in R&D (Research & Development Phase)
 Features are actively being tested, improved, and expanded.
 
-🚀 Features (Current)
+###🚀 Features (Current)
+
 🎙️ Voice Command Recognition
 🔊 Text-to-Speech Responses
 🌐 Google Search via Voice
@@ -13,14 +14,16 @@ Features are actively being tested, improved, and expanded.
 🧠 AI Conversational Responses
 🔎 YouTube Search Automation
 
-🛠️ Tech Stack
+###🛠️ Tech Stack
+
 Python
 SpeechRecognition
 Pyttsx3 (TTS Engine)
 Google Speech API
 Web Automation (subprocess / webbrowser)
 
-🎯 Example Commands
+###🎯 Example Commands
+
 "Friday play my song"
 "Friday search Python tutorials"
 "Friday open YouTube"
@@ -28,7 +31,8 @@ Web Automation (subprocess / webbrowser)
 "Friday wake up"
 "Friday add meeting at 5 pm" (Experimental)
 
-📌 Project Goals (R&D Phase)
+###📌 Project Goals (R&D Phase)
+
 Wake word detection without manual trigger
 Smart context memory
 Desktop automation
@@ -36,7 +40,7 @@ System control (volume, apps, files)
 UI Interface (Streamlit / Web UI)
 AI Task Planning
 
-🧪 Current Status
+###🧪 Current Status
 
 This project is under active Research & Development.
 Expect:
@@ -45,12 +49,12 @@ Rapid updates
 Experimental features
 Frequent improvements
 
-👩‍💻 Author
+##👩‍💻 Author
 
 Built by Vaishnavi
 AI • Automation • Voice Assistant • Experimental Projects
 
-🔮 Vision
+###🔮 Vision
 
 To build a fully autonomous personal AI assistant similar to F.R.I.D.A.Y capable of:
 
