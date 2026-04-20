@@ -57,7 +57,7 @@ Frequent improvements
 
 ## 👩‍💻 Author
 
-Built by Vaishnavi
+Built by Vaishnavi <br>
 AI • Automation • Voice Assistant • Experimental Projects
 
 ### 🔮 Vision
