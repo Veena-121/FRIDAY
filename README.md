@@ -4,6 +4,12 @@ F.R.I.D.A.Y is a Python-based personal voice assistant inspired by Stark Industr
 ### ⚠️ Status: Project Currently in R&D (Research & Development Phase)
 Features are actively being tested, improved, and expanded.
 
+
+
+
+https://github.com/user-attachments/assets/3e983442-1874-4f43-aa98-c50ef54261ff
+
+
 ### 🚀 Features (Current)
 
 🎙️ Voice Command Recognition
