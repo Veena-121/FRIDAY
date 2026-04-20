@@ -37,8 +37,7 @@ def main():
         elif "youtube" in command:
             speak("Searching Youtube")
             search_youtube(command.replace("youtube",""))
-            
-            speak("Event added")
+        
         elif "play my song" in command or "play my" in command or "my song" in command:
             speak("Playing your song")
             play_my_song()
