@@ -17,7 +17,7 @@ def search_youtube(query):
 def play_my_song():
     url = "https://www.youtube.com/watch?v=bHy3fZPWhpg&list=RDbHy3fZPWhpg&start_radio=1&t=159s"
     
-    brave_path = r"C:\Users\HP\AppData\Local\BraveSoftware\Brave-Browser\Application\brave.exe"
+    brave_path = "YOUR_BRAVE_PATH"
     
     subprocess.Popen([brave_path, url])
     
