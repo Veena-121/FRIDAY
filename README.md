@@ -1,4 +1,4 @@
-### F.R.I.D.A.Y — Personal AI Voice Assistant 🤖🎙️
+# F.R.I.D.A.Y — Personal AI Voice Assistant 🤖🎙️
 
 F.R.I.D.A.Y is a Python-based personal voice assistant inspired by Stark Industries' AI assistant. 
 ⚠️ Status: Project Currently in R&D (Research & Development Phase)
